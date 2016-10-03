@@ -10,3 +10,4 @@ This is implemented on these twitter accounts as a bot.
 
 A dog from "Dog's country", a cat from "Cat's country", and a person from "Person's country" will calculate a formula written in reverse poland method.
 
+(Intend to use [Twitter4J](http://twitter4j.org/en/index.html) and [Google App Engine](https://cloud.google.com/appengine/))
